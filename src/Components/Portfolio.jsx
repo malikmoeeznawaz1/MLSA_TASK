@@ -31,7 +31,7 @@ const imageAltText = "portfolio image";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Fitness Blender 2.0",
     description:
       "Cloned Web Fitness blender Using HTML,Bootstrap.",
     url: "https://malikmoeeznawaz1.github.io/Fitness-Blender/",
