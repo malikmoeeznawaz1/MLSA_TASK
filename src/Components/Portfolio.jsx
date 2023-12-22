@@ -39,6 +39,7 @@ const projectList = [
 ];
 
 const Portfolio = () => {
+  
   return (
     <section className="padding" id="portfolio">
       <h2 style={{ textAlign: "center" }}>Portfolio</h2>
